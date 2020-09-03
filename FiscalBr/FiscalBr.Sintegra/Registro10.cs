@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FiscalBr.Common.Sintegra;
+using System;
 
 namespace FiscalBr.Sintegra
 {

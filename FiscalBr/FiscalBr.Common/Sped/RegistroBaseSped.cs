@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace FiscalBr.Common
+namespace FiscalBr.Common.Sped
 {
     public class RegistroBaseSped
     {

@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
-namespace FiscalBr.Sintegra
+namespace FiscalBr.Common.Sintegra
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class SintegraCamposAttribute : Attribute

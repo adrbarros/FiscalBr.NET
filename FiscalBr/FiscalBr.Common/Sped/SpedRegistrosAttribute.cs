@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace FiscalBr.Common
+namespace FiscalBr.Common.Sped
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class SpedRegistrosAttribute : Attribute
@@ -32,3 +34,4 @@ namespace FiscalBr.Common
         }
     }
 }
+
